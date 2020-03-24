@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.new_text {
+  font-family: "Oswald", sans-serif;
+  padding-left: 1em;
+}
